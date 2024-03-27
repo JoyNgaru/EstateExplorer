@@ -46,7 +46,6 @@ if(isset($_REQUEST['reg']))
 ?>
 <!DOCTYPE html>
 <html lang="en">
-<!-- FOR MORE PROJECTS visit: freeprojectscodes.com -->
 <head>
 <!-- Required meta tags -->
 <meta charset="utf-8">
@@ -97,7 +96,7 @@ if(isset($_REQUEST['reg']))
     <div class="row"> 
         <!--	Header start  -->
 		<?php include("include/header.php");?>
-        <!--	Header end  --><!-- FOR MORE PROJECTS visit: freeprojectscodes.com -->
+        <!--	Header end  -->
         
         <!--	Banner   --->
         <!-- <div class="banner-full-row page-banner" style="background-image:url('images/breadcromb.jpg');">
@@ -149,7 +148,7 @@ if(isset($_REQUEST['reg']))
 									  <label class="form-check-label">
 										<input type="radio" class="form-check-input" name="utype" value="user" checked>User
 									  </label>
-									</div><!-- FOR MORE PROJECTS visit: freeprojectscodes.com -->
+									</div>
 									<div class="form-check-inline">
 									  <label class="form-check-label">
 										<input type="radio" class="form-check-input" name="utype" value="agent">Agent
@@ -187,7 +186,7 @@ if(isset($_REQUEST['reg']))
 								
 								<div class="text-center dont-have">Already have an account? <a href="login.php">Login</a></div>
 								
-							</div><!-- FOR MORE PROJECTS visit: freeprojectscodes.com -->
+							</div>
                         </div>
                     </div>
                 </div>
@@ -206,7 +205,6 @@ if(isset($_REQUEST['reg']))
     </div>
 </div>
 <!-- Wrapper End --> 
-<!-- FOR MORE PROJECTS visit: freeprojectscodes.com -->
 <!--	Js Link
 ============================================================--> 
 <script src="js/jquery.min.js"></script> 
