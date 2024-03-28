@@ -10,6 +10,6 @@
 **Admin Login Details**
 
 Username: admin
-Password: freeprojectscodes.com
+Password: admin321$$$
 
 
